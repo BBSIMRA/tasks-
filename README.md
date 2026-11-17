@@ -48,6 +48,12 @@ empty lookup object is created,
 moved all the useres to the lookup object using for..of loop
 O(n)
 
+**two sums**
+used 2 pointers i and j in 2 nested for loop 
+O(n^2)
 
+**valid_anagram**
+used if loop to check if the strings have different lenght,if not equal,returned false  
+split(),sort(),join() 1st string and then 2nd string ,compare both the string ,return true or fals 
 
 
