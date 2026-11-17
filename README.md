@@ -56,4 +56,6 @@ O(n^2)
 used if loop to check if the strings have different lenght,if not equal,returned false  
 split(),sort(),join() 1st string and then 2nd string ,compare both the string ,return true or fals 
 
-
+**emails**
+used set to create a new collection of unique emails 
+O(n)
