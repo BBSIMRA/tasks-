@@ -39,4 +39,9 @@ created empty object and used for..of loop to go throught each transaction same 
 going through all the transactions if user exists add new amount else new entry 
 O(n)
 
+**status count**
+created empty object and used for..of loop,checks if the status exists and increase the count by 1 else create status with count 1 
+O(n)
+
+
 
