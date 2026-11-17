@@ -43,5 +43,11 @@ O(n)
 created empty object and used for..of loop,checks if the status exists and increase the count by 1 else create status with count 1 
 O(n)
 
+**lookup**
+empty lookup object is created,
+moved all the useres to the lookup object using for..of loop
+O(n)
+
+
 
 
