@@ -59,3 +59,11 @@ split(),sort(),join() 1st string and then 2nd string ,compare both the string ,r
 **emails**
 used set to create a new collection of unique emails 
 O(n)
+
+**common**
+used filter() to check in list 1,used include() to check in list 2
+
+**contains duplicate**
+used set () to create a new array of unique numbers,compared the old and new array lenght 
+O(n)
+
