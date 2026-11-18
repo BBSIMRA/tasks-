@@ -68,5 +68,11 @@ used set () to create a new array of unique numbers,compared the old and new arr
 O(n)
 
 **sort**
-sort() for rearranging, comparatot function (a,b) for comparing 2 object at a time b-a for highest to lowest
+sort() for rearranging, comparator function (a,b) for comparing 2 object at a time b-a for highest to lowest
+
+**sort alphabetically**
+ used sort(),comparator function(a,b),and localCompare()
+
+**highest**
+assigned the first object as the highest,and used pointer i to go throught the all the objects in the array and compare the amount to the assigned object amount till the itteration along the array is completed
 
