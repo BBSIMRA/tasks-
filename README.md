@@ -67,3 +67,6 @@ used filter() to check in list 1,used include() to check in list 2
 used set () to create a new array of unique numbers,compared the old and new array lenght 
 O(n)
 
+**sort**
+sort() for rearranging, comparatot function (a,b) for comparing 2 object at a time b-a for highest to lowest
+
